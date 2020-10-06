@@ -1,4 +1,4 @@
-person
+print("person")
 bicycle
 car
 motorcycle
@@ -31,7 +31,7 @@ frisbee
 skis
 snowboard
 sports ball
-kite
+ram
 baseball bat
 baseball glove
 skateboard
@@ -70,8 +70,8 @@ microwave
 oven
 toaster
 sink
-refrigerator
-book
+#refrigerator
+print("book")
 clock
 vase
 scissors
