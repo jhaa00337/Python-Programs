@@ -1,0 +1,8 @@
+print("tha")
+nob=("jha")
+print(nob)
+print("value")
+value=input()
+print("value2")
+value2=input()
+print("yo bro",int(value)+int(value2))
